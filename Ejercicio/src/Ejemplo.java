@@ -7,6 +7,7 @@ public class Ejemplo {
 		System.out.println("Alumno 1:");
 
 		Alumno alumno_2=new Alumno(1,"Aitor","Rodriguez");
+		System.out.println(alumno_2);
 	}
 
 }
